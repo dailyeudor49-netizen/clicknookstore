@@ -10,12 +10,12 @@ export default function Footer() {
           <div className="col-span-2 md:col-span-1">
             <h3 className="font-bold text-lg mb-3">Clicknook</h3>
             <p className="text-gray-400 text-sm mb-3">
-              Premium tech gadgets and electronics at wholesale prices. Fast delivery worldwide.
+              Wholesale electronics trusted by retailers across Europe. Quality tech, reliable delivery.
             </p>
             <div className="text-gray-400 text-sm space-y-1">
               <p>info@clicknookstore.com</p>
-              <p>89 Karl Johans gate</p>
-              <p>Oslo 0154, Norway</p>
+              <p>Friedrichstraße 147</p>
+              <p>10117 Berlin, Germany</p>
             </div>
           </div>
 
@@ -49,10 +49,10 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 pt-6 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-3 text-sm text-gray-500">
-          <p>&copy; {year} Clicknook AS. All rights reserved.</p>
+          <p>&copy; {year} Clicknook GmbH. All rights reserved.</p>
           <div className="flex gap-4">
-            <span>VAT: NO 123456789</span>
-            <span>Registered in Norway</span>
+            <span>VAT: DE 318472956</span>
+            <span>Registered in Germany</span>
           </div>
         </div>
       </div>

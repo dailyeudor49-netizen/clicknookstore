@@ -91,13 +91,13 @@ export default function TermsOfServicePage() {
             <div>
               <h2 className="text-xl font-bold text-gray-900 mb-3">10. Contact Information</h2>
               <p className="text-gray-600">
-                Clicknook AS<br />
-                89 Karl Johans gate<br />
-                Oslo 0154<br />
-                Norway<br />
+                Clicknook GmbH<br />
+                Friedrichstraße 147<br />
+                10117 Berlin<br />
+                Germany<br />
                 Email: info@clicknookstore.com<br />
-                VAT: NO 123456789<br />
-                Registered in Norway
+                VAT: DE 318472956<br />
+                Registered in Germany
               </p>
             </div>
           </div>
