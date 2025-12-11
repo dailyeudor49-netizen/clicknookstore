@@ -60,7 +60,7 @@ export default function ContactPage() {
                 <h2 className="text-2xl font-bold text-gray-900 mb-5">Contact Information</h2>
                 <div className="space-y-4">
                   {[
-                    { t: "Email", v: "info@clicknook.com", d: "Response within 24 hours" },
+                    { t: "Email", v: "info@clicknookstore.com", d: "Response within 24 hours" },
                     { t: "Address", v: "89 Karl Johans gate, Oslo 0154", d: "Norway" },
                     { t: "Hours", v: "Monday - Friday", d: "9:00 AM - 6:00 PM CET" },
                   ].map((c, i) => (

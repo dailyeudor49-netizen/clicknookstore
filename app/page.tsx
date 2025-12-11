@@ -119,7 +119,7 @@ export default function Home() {
           <Link href="/contact" className="inline-block px-8 py-3 bg-white text-slate-600 font-semibold rounded-lg hover:bg-slate-50">
             Request Quote
           </Link>
-          <p className="text-slate-200 text-sm mt-4">Or email info@clicknook.com</p>
+          <p className="text-slate-200 text-sm mt-4">Or email info@clicknookstore.com</p>
         </div>
       </section>
     </div>

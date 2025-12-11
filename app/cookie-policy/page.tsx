@@ -86,7 +86,7 @@ export default function CookiePolicyPage() {
               <h2 className="text-xl font-bold text-gray-900 mb-3">8. Contact Us</h2>
               <p className="text-gray-600">
                 For questions about our use of cookies, contact us at:<br />
-                Email: info@clicknook.com<br />
+                Email: info@clicknookstore.com<br />
                 Address: 89 Karl Johans gate, Oslo 0154, Norway
               </p>
             </div>

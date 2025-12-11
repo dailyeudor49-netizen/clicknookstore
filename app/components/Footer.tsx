@@ -13,7 +13,7 @@ export default function Footer() {
               Premium tech gadgets and electronics at wholesale prices. Fast delivery worldwide.
             </p>
             <div className="text-gray-400 text-sm space-y-1">
-              <p>info@clicknook.com</p>
+              <p>info@clicknookstore.com</p>
               <p>89 Karl Johans gate</p>
               <p>Oslo 0154, Norway</p>
             </div>

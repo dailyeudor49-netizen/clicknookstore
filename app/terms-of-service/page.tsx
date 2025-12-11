@@ -95,7 +95,7 @@ export default function TermsOfServicePage() {
                 89 Karl Johans gate<br />
                 Oslo 0154<br />
                 Norway<br />
-                Email: info@clicknook.com<br />
+                Email: info@clicknookstore.com<br />
                 VAT: NO 123456789<br />
                 Registered in Norway
               </p>
